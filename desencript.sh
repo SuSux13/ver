@@ -4,6 +4,9 @@ ccryrpt -e quepasa.sh
 ccryrpt -d quepasa.sh
 
 cd comandosTERMUX
+mkdir hehe
+cd hehe
+
 mv comandos.sh /data/data/com.termux/files/home/hehe/ver
 mv banner.txt /data/data/com.termux/files/home/hehe/ver
 
